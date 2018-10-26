@@ -631,7 +631,8 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [SoftEther](https://www.softether.org/) - Multi-protocol software VPN with advanced features
 * [sshuttle](https://github.com/sshuttle/sshuttle) - Poor man's VPN.
 * [strongSwan](https://www.strongswan.org/) - Complete IPsec implementation for Linux.
-* [tinc](http://www.tinc-vpn.org/) - Distributed p2p VPN.
+* [tinc](http://www.tinc-vpn.org/) - Distributed p2p VPN
+* [WireGuard](https://www.wireguard.com/) - Layer 3 secure network tunnel written in Go.
 
 ## Web
 
