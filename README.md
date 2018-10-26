@@ -632,6 +632,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [sshuttle](https://github.com/sshuttle/sshuttle) - Poor man's VPN.
 * [strongSwan](https://www.strongswan.org/) - Complete IPsec implementation for Linux.
 * [tinc](http://www.tinc-vpn.org/) - Distributed p2p VPN.
+* [ZeroTier](https://www.zerotier.com/) - Distributed network bridge inspired by VPN and SD-WAN.
 
 ## Web
 
